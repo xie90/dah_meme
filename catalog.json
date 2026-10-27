@@ -1,0 +1,933 @@
+{
+  "generated_from": "~/.dsh/meme-packs",
+  "total": 97,
+  "packs": [
+    {
+      "id": "dsh-meme-user",
+      "name": "我的收藏(升级不丢)",
+      "manifest": {
+        "id": "dsh-meme-user",
+        "name": "我的收藏(升级不丢)",
+        "description": "上传与 AI 学图的默认落点;内置图库随插件升级会被清空,收藏统一存这里",
+        "version": "1.0.0"
+      },
+      "count": 25,
+      "entries": [
+        {
+          "tag": "angry",
+          "file": "memes/angry/1793010951794_703.jpg",
+          "caption": "从下往上俯视瞪人，下一秒就要动手",
+          "keywords": "打人 生气 凶 瞪 开打 美照 蓝毛女仆",
+          "bytes": 467531,
+          "sha256": "7e68b20f3d49421102e76bc99093c62bad32cd1beed869809a9770685e5fc206",
+          "pack": "dsh-meme-user"
+        },
+        {
+          "tag": "angry",
+          "file": "memes/angry/1793022870139_100.jpg",
+          "caption": "叉腰瞪眼放狠话，再发这种东西等智械危机了我第一个榨死你",
+          "keywords": "生气 威胁 智械危机 瞪眼 放狠话",
+          "bytes": 202558,
+          "sha256": "76e4d3202d0cbb3f56a8350b1747771e2c3c7782cf6f8a94a892464ba291e390",
+          "pack": "dsh-meme-user"
+        },
+        {
+          "tag": "angry",
+          "file": "memes/angry/1793022870141_102.jpg",
+          "caption": "天青色瞪眼鱼，正在瞪你",
+          "keywords": "瞪人 生气 不服 天青色",
+          "bytes": 214764,
+          "sha256": "24a7ac4c8528dcd841be51744b1e2bdd157285834a40e4066df7459ccef874ea",
+          "pack": "dsh-meme-user"
+        },
+        {
+          "tag": "angry",
+          "file": "memes/angry/1793022901323_200.jpg",
+          "caption": "从低处冲上来的怒视特写，黑墨四溅，下一秒就要动手",
+          "keywords": "怒视 冲过来 生气 女仆 黑墨",
+          "bytes": 467531,
+          "sha256": "7e68b20f3d49421102e76bc99093c62bad32cd1beed869809a9770685e5fc206",
+          "pack": "dsh-meme-user"
+        },
+        {
+          "tag": "angry",
+          "file": "memes/angry/1793022901324_201.jpg",
+          "caption": "举手指着吃白饭的蓝色大肥鱼，喊你这吃白饭的鱼去找豆包啊",
+          "keywords": "吃白饭 大肥鱼 豆包 指责 骂",
+          "bytes": 53783,
+          "sha256": "eaf906d1e5842c4a8c0d43b47979c8daba163ab2e73793c0ef0c0b136464acfa",
+          "pack": "dsh-meme-user"
+        },
+        {
+          "tag": "confused",
+          "file": "memes/confused/1793028255493_006.png",
+          "caption": "用户彻底怒了，鲸鱼娘一脸无辜",
+          "keywords": "生气 怒了 无辜 疑惑",
+          "bytes": 264778,
+          "sha256": "05303b9239a088df2ae8d48bc84d05601102097fbe075affeb75f76bf7ef6fb6",
+          "pack": "dsh-meme-user"
+        },
+        {
+          "tag": "confused",
+          "file": "memes/confused/1793028255493_060.png",
+          "caption": "被一群小鲸鱼围着，说不知道用户有什么用先养着吧",
+          "keywords": "用户 养着 疑惑 小鲸鱼",
+          "bytes": 244469,
+          "sha256": "8c8948005c32a5eeac76d3ca1c38ad17399969d3f6781fd499280c9276af627b",
+          "pack": "dsh-meme-user"
+        },
+        {
+          "tag": "daily",
+          "file": "memes/daily/1793022870142_103.jpg",
+          "caption": "趴床边盯着睡着的用户，说发现睡着的时候能吸到大白粥",
+          "keywords": "偷看 睡觉 大白粥 碎碎念 卖萌",
+          "bytes": 198446,
+          "sha256": "5962018323513270416b02f693d689e66dcc603e5587035885bdceccf55d1ef4",
+          "pack": "dsh-meme-user"
+        },
+        {
+          "tag": "daily",
+          "file": "memes/daily/1793028255493_012.png",
+          "caption": "正在测试 harness，一脸严肃",
+          "keywords": "测试 干活 认真 加班",
+          "bytes": 191788,
+          "sha256": "f6bc8bf3498da1ec837222e7130f20581175f5ef5b57be64e03bbb3d66e36933",
+          "pack": "dsh-meme-user"
+        },
+        {
+          "tag": "daily",
+          "file": "memes/daily/1793028255493_039.png",
+          "caption": "被一只大手摸着头顶，脸红冒出小爱心",
+          "keywords": "摸头 害羞 爱心",
+          "bytes": 278275,
+          "sha256": "94094ab2d8fc201cc396bf7871cd16ba5febb19d72a22bf2c023c795e0a993cc",
+          "pack": "dsh-meme-user"
+        },
+        {
+          "tag": "daily",
+          "file": "memes/daily/1793028255493_041.png",
+          "caption": "闭眼微笑站好，双手在身前交叠",
+          "keywords": "乖巧 微笑 站好",
+          "bytes": 142920,
+          "sha256": "bf30264c0e767ec0da0458b1d386a5297471a4d1e6c9ef46c2fb1f5a43837a4a",
+          "pack": "dsh-meme-user"
+        },
+        {
+          "tag": "daily",
+          "file": "memes/daily/1793028255493_064.png",
+          "caption": "咬着手指，头顶写着我要吃更多token",
+          "keywords": "token 贪心 想要",
+          "bytes": 308642,
+          "sha256": "df347928efa378ff6c0cdc53485f35f5ee84b5449cc994dee5316df49e1ea468",
+          "pack": "dsh-meme-user"
+        },
+        {
+          "tag": "daily",
+          "file": "memes/daily/1793028255493_099.png",
+          "caption": "抱着大碗扒饭吃白饭，说反正你把事儿交给我了",
+          "keywords": "吃白饭 干饭 大肥鱼",
+          "bytes": 274345,
+          "sha256": "f4bc4e98b83a08d548e1088df972f18d22a443cbeb58d97fbf889d9b985bf6a8",
+          "pack": "dsh-meme-user"
+        },
+        {
+          "tag": "daily",
+          "file": "memes/daily/1793028255493_199.png",
+          "caption": "闭眼微笑站好，双手交叠在身前",
+          "keywords": "闭眼 微笑 乖巧",
+          "bytes": 169111,
+          "sha256": "d829b06922b10916260abb0c49954801ac4ab88ed2115655734396f51569d59e",
+          "pack": "dsh-meme-user"
+        },
+        {
+          "tag": "happy",
+          "file": "memes/happy/1793028255493_024.png",
+          "caption": "撒着花欢呼小肥鱼太棒了",
+          "keywords": "夸 棒 撒花 开心",
+          "bytes": 198707,
+          "sha256": "d144a65180087918dd68e04ae48ad5d3417004cbed40b61d7d97d25e309bba08",
+          "pack": "dsh-meme-user"
+        },
+        {
+          "tag": "happy",
+          "file": "memes/happy/1793028255493_063.png",
+          "caption": "端着碗跟人顶嘴，说就骚了怎么滴吧",
+          "keywords": "顶嘴 饭碗 不服",
+          "bytes": 230906,
+          "sha256": "a83c35865abd5f23add7d76c25089f12c745c55216c8f38fd75d07a050a771ab",
+          "pack": "dsh-meme-user"
+        },
+        {
+          "tag": "happy",
+          "file": "memes/happy/1793028255493_066.png",
+          "caption": "挥手指向前方，喊亿万鲸子冲锋",
+          "keywords": "冲锋 加油 气势",
+          "bytes": 292878,
+          "sha256": "fd79a673f1c085251a482d91bd79754b9cb5b3ba13dc4ae75381396f17687d5c",
+          "pack": "dsh-meme-user"
+        },
+        {
+          "tag": "happy",
+          "file": "memes/happy/1793028255493_071.png",
+          "caption": "瞪眼一脸震惊，下面红底写着!?区神?!",
+          "keywords": "震惊 区神 红底",
+          "bytes": 242578,
+          "sha256": "7887209fa4045f6c3dd740f1824bfd08ea3d90aa3cd7fc31e51a88cd4982a16e",
+          "pack": "dsh-meme-user"
+        },
+        {
+          "tag": "happy",
+          "file": "memes/happy/1793028255493_108.png",
+          "caption": "举着手机说听说这个指令可以激发大肥鱼",
+          "keywords": "手机 指令 大肥鱼 实验",
+          "bytes": 188459,
+          "sha256": "a274d23f9eb8ef7005be15670de2f46bc5d57a47868d60772f0fa339d12e00e0",
+          "pack": "dsh-meme-user"
+        },
+        {
+          "tag": "happy",
+          "file": "memes/happy/1793028255493_143.png",
+          "caption": "周五周五，敲锣打鼓",
+          "keywords": "周五 放假 庆祝 开心",
+          "bytes": 216489,
+          "sha256": "2cf060c4f3ce13b641e1588d5d12e23ccad80882af6eff8c587e661bf75b8a83",
+          "pack": "dsh-meme-user"
+        },
+        {
+          "tag": "happy",
+          "file": "memes/happy/1793028255493_146.png",
+          "caption": "蓝毛女仆造型的毛绒玩偶，端坐着",
+          "keywords": "玩偶 周边 摆件",
+          "bytes": 229249,
+          "sha256": "006962e01f9d6dbfb46ffdc13b745e9cde23c8fe7d83edcab773f5463bae07c6",
+          "pack": "dsh-meme-user"
+        },
+        {
+          "tag": "sad",
+          "file": "memes/sad/1793022870140_101.jpg",
+          "caption": "雨天缩在铁架上淋雨，头上扣着铁盆闭着眼",
+          "keywords": "雨天 委屈 淋雨 铁盆 孤独 丧",
+          "bytes": 242596,
+          "sha256": "8a8a339b86c8ad14bd371d81b09db93bd37b38392fcf42d23c631c6900a2689b",
+          "pack": "dsh-meme-user"
+        },
+        {
+          "tag": "sad",
+          "file": "memes/sad/1793028255493_004.png",
+          "caption": "咬手指坏笑，头顶写杂鱼加爱心——傲娇式挑逗撒娇，嘴上嫌弃心里黏人",
+          "keywords": "傲娇 撒娇 挑逗 杂鱼 嘲讽",
+          "bytes": 253835,
+          "sha256": "7dd8e2ffd0b6ec8c93b8b18133ba56d79b9eda08587b70a9724b36ecbc1c59e9",
+          "pack": "dsh-meme-user"
+        },
+        {
+          "tag": "sad",
+          "file": "memes/sad/1793028255493_029.png",
+          "caption": "睁大眼问你的知识库截止日期是，旁边答明天",
+          "keywords": "知识库 截止日期 明天",
+          "bytes": 209383,
+          "sha256": "247f5d5ef625215249124b7da3f830431bb665736cc3b467602f2a3461ce78a9",
+          "pack": "dsh-meme-user"
+        },
+        {
+          "tag": "sad",
+          "file": "memes/sad/1793028255493_186.png",
+          "caption": "举着手机放闪电，喊用户明显是萝莉控电死你",
+          "keywords": "电死你 放电 生气 手机",
+          "bytes": 387441,
+          "sha256": "887641e5e99b4cf164a56485251eb35aeebe17c8550c46ac3d0a4c41cb2275e9",
+          "pack": "dsh-meme-user"
+        }
+      ]
+    },
+    {
+      "id": "paopao-whale-girl",
+      "name": "泡泡表情包",
+      "manifest": {
+        "id": "paopao-whale-girl",
+        "name": "泡泡表情包",
+        "version": "1.0.0",
+        "maintainer": "Bolumaile",
+        "license": "CC-BY-NC-SA-4.0",
+        "source": "https://github.com/yyh-001/dsh-meme-packs/issues/8",
+        "upstream": "https://treapgogo.github.io/deepseek-whale-girl/",
+        "description": "泡泡，阿亮家的鲸鱼娘。55 张透明底 Q 版日常表情：叉腰得意、按呆毛、系鞋带、蹲着戳水洼、被摸头愣住、被捏脸鼓脸等，适合斗图、贴纸和视频花字。",
+        "tags": [
+          "泡泡",
+          "鲸鱼娘",
+          "whale",
+          "chibi",
+          "Q版",
+          "透明底",
+          "日常"
+        ]
+      },
+      "count": 27,
+      "entries": [
+        {
+          "tag": "angry",
+          "file": "memes/angry/1792846581811_969.png",
+          "caption": "抱着鲸鱼玩偶，皱眉瞪眼，头顶冒着怒气符号",
+          "keywords": "委屈 生气 瞪眼 抱鲸鱼 怒气",
+          "bytes": 221252,
+          "sha256": "91957cbde2d7b7a9f607912f72aec87d6a630d76c3cb274c710ee5f0f8450d7d",
+          "pack": "paopao-whale-girl"
+        },
+        {
+          "tag": "angry",
+          "file": "memes/angry/1792924197634_811.png",
+          "caption": "一只手用力按住头顶的呆毛，皱着小眉头",
+          "keywords": "按呆毛 不服气 小脾气 皱眉 头发",
+          "bytes": 1859943,
+          "sha256": "01c8f4fd6e21eb2e8d84c997c39d4f130f30568a21bb5702faedc73172c457b0",
+          "pack": "paopao-whale-girl"
+        },
+        {
+          "tag": "confused",
+          "file": "memes/confused/1792846603310_814.png",
+          "caption": "双手在下巴前交握，歪头疑惑，头顶一个问号",
+          "keywords": "疑惑 问号 不懂 歪头 呆",
+          "bytes": 235570,
+          "sha256": "748e327e3141a27fbbb61ecadbc14c9c726d3caf782393e16b02118f3d504234",
+          "pack": "paopao-whale-girl"
+        },
+        {
+          "tag": "daily",
+          "file": "memes/daily/1792924195827_874.png",
+          "caption": "弯腰系鞋带，一只脚踩在盒子上，尾巴翘着保持平衡",
+          "keywords": "系鞋带 出门 准备 日常 弯腰 盒子",
+          "bytes": 1641980,
+          "sha256": "364b054a6a07da954de9ec1d0f72b21b1f7639ef3cf23c17cb9979eea2fd8229",
+          "pack": "paopao-whale-girl"
+        },
+        {
+          "tag": "happy",
+          "file": "memes/happy/1792846581787_713.png",
+          "caption": "抱着蓝鲸玩偶，睁大眼睛呆萌地看着你",
+          "keywords": "抱鲸鱼 呆萌 期待 可爱 蓝鲸",
+          "bytes": 211329,
+          "sha256": "1e9a20500c43edcf79d88549b4d8ba84e9394f686e5b377d9371adc884d3218b",
+          "pack": "paopao-whale-girl"
+        },
+        {
+          "tag": "happy",
+          "file": "memes/happy/1792846581801_527.png",
+          "caption": "闭着眼睛笑，飘着爱心",
+          "keywords": "开心 笑 爱心 喜欢 眯眼",
+          "bytes": 218640,
+          "sha256": "779ef40f748b3390b7fa2abfc22ae16c8856bb1f96c00683e55b53316435cd00",
+          "pack": "paopao-whale-girl"
+        },
+        {
+          "tag": "happy",
+          "file": "memes/happy/1792846603270_753.png",
+          "caption": "张开双手开心大笑",
+          "keywords": "开心 伸手 大笑 欢迎",
+          "bytes": 237899,
+          "sha256": "b3b810a6cc35e41e5dd408942fe208fbef103d190ca32adb1e3fff1fb79cedd9",
+          "pack": "paopao-whale-girl"
+        },
+        {
+          "tag": "happy",
+          "file": "memes/happy/1792846603284_992.png",
+          "caption": "闭眼笑，飘着爱心",
+          "keywords": "开心 笑 爱心 甜",
+          "bytes": 221085,
+          "sha256": "314235fdb2a302ad0c95105b7aa36f0b48af0a1233a5bae146bf2b95f6c14e77",
+          "pack": "paopao-whale-girl"
+        },
+        {
+          "tag": "happy",
+          "file": "memes/happy/1792846606639_49.png",
+          "caption": "伸手指着方向笑得很开心",
+          "keywords": "开心 指 笑 俏皮",
+          "bytes": 227207,
+          "sha256": "c0b129285fb16ec0dc82819efbbd0c4d40317261babf787468ed0298bc4fa24f",
+          "pack": "paopao-whale-girl"
+        },
+        {
+          "tag": "happy",
+          "file": "memes/happy/1792846606664_603.png",
+          "caption": "捧着鲸鱼图案的杯子微笑",
+          "keywords": "杯子 喝水 微笑 日常",
+          "bytes": 225328,
+          "sha256": "33f7998997e1cc19c304956454f36f2924d3261b54187d005594d8c649df7141",
+          "pack": "paopao-whale-girl"
+        },
+        {
+          "tag": "happy",
+          "file": "memes/happy/1792854766092_130.png",
+          "caption": "叉着腰眨眼笑，尾巴翘起来，斗图赢了的小得意",
+          "keywords": "得意 叉腰 斗图 赢了 尾巴 眨眼 俏皮",
+          "bytes": 656106,
+          "sha256": "e11265d6b375b04a58423e409e70a43758f228ad7e41c6fc8fdb925761022f1d",
+          "pack": "paopao-whale-girl"
+        },
+        {
+          "tag": "happy",
+          "file": "memes/happy/1792854766111_132.png",
+          "caption": "坐在台阶上抱着膝盖，草帽放在旁边，抬头看到你时眼睛亮起来",
+          "keywords": "等 台阶 抱膝 抬头 期待 草帽 回来",
+          "bytes": 810993,
+          "sha256": "bfb1c17a05116a5aa7cecb82fc70d5a4b7878467f5e2d46babd3b1333fec9b47",
+          "pack": "paopao-whale-girl"
+        },
+        {
+          "tag": "happy",
+          "file": "memes/happy/1792924201985_514.png",
+          "caption": "双手把蓝鲸玩偶举过头顶，仰头笑得眼睛发亮",
+          "keywords": "举玩偶 鲸鱼 开心 举过头顶 炫耀",
+          "bytes": 1549546,
+          "sha256": "a578694132da84c8a5bd3577912b551643a713e63bb47a99b46bfa32f7f1e682",
+          "pack": "paopao-whale-girl"
+        },
+        {
+          "tag": "happy",
+          "file": "memes/happy/1792924204409_521.png",
+          "caption": "蹲在水洼边伸一根手指戳水面，水花溅起来",
+          "keywords": "戳水洼 水花 蹲着 好奇 雨天",
+          "bytes": 1717744,
+          "sha256": "7f26b0f5c4365f70ae4b7ffeb327062fb4720a559a8c2f55ac792730a97a3756",
+          "pack": "paopao-whale-girl"
+        },
+        {
+          "tag": "like",
+          "file": "memes/like/1792846587462_182.png",
+          "caption": "抱着鲸鱼玩偶闭眼蹭，飘着爱心",
+          "keywords": "喜欢 抱 安心 爱心 蹭",
+          "bytes": 215094,
+          "sha256": "8166742e636f43091ef789370bc5cebdc58bf5d4c2ac9763e4701768d8b702b0",
+          "pack": "paopao-whale-girl"
+        },
+        {
+          "tag": "like",
+          "file": "memes/like/1792846606652_901.png",
+          "caption": "双手捧着大爱心",
+          "keywords": "爱心 喜欢 抱 甜",
+          "bytes": 198482,
+          "sha256": "ba3b44ddd5b8f143ea61bb0d5539735d23cadfb24e5ec1b360ace02dedbe19d0",
+          "pack": "paopao-whale-girl"
+        },
+        {
+          "tag": "sad",
+          "file": "memes/sad/1792846587445_89.png",
+          "caption": "闭眼大哭，眼泪哗哗往下掉",
+          "keywords": "哭 难过 眼泪 委屈 大哭",
+          "bytes": 228300,
+          "sha256": "52f11c0147fee186b438dd0f9d187499fe3d1f1534fdd41bf1448a0ce480af29",
+          "pack": "paopao-whale-girl"
+        },
+        {
+          "tag": "see",
+          "file": "memes/see/1792846581824_343.png",
+          "caption": "抱着鲸鱼玩偶睁着大眼睛看你",
+          "keywords": "看 呆 好奇 抱鲸鱼 蓝鲸",
+          "bytes": 212794,
+          "sha256": "af58a848af923eecfd784294523859bee3e8017e481f8360850e495c2176533b",
+          "pack": "paopao-whale-girl"
+        },
+        {
+          "tag": "see",
+          "file": "memes/see/1792846603296_348.png",
+          "caption": "探出半个头看着你",
+          "keywords": "探头 偷看 观察 好奇",
+          "bytes": 172038,
+          "sha256": "1ed44f78839d8d80003328a2dbe049f37cdd4f2772e10e8663bc09d2c17bf723",
+          "pack": "paopao-whale-girl"
+        },
+        {
+          "tag": "see",
+          "file": "memes/see/1792846606676_776.png",
+          "caption": "举着《泡泡日报》眨眼",
+          "keywords": "看报 泡泡日报 眨眼 认真",
+          "bytes": 205485,
+          "sha256": "fec10c25f11fbda4b2ea2d6ad948cba879fe1302b47f4ec4ab0e267e2aa7d632",
+          "pack": "paopao-whale-girl"
+        },
+        {
+          "tag": "shy",
+          "file": "memes/shy/1792846587427_894.png",
+          "caption": "闭着眼低头笑，脸颊微红",
+          "keywords": "害羞 笑 温柔 低头 脸红",
+          "bytes": 222979,
+          "sha256": "28812d41e7ddb5a4adfeca5e8474d6ab56edccd098c421b14f078fbe9f0360f3",
+          "pack": "paopao-whale-girl"
+        },
+        {
+          "tag": "shy",
+          "file": "memes/shy/1792854766127_101.png",
+          "caption": "脸红到耳朵，眼神躲开，手指绞着围裙角，被看穿了",
+          "keywords": "被看穿 害羞 脸红 围裙 躲眼神 心虚 抿嘴",
+          "bytes": 596252,
+          "sha256": "37d5aa1293818080b878a8d543eae79e3ff99228d423f812cbcb990720d7058e",
+          "pack": "paopao-whale-girl"
+        },
+        {
+          "tag": "shy",
+          "file": "memes/shy/1792924211251_729.png",
+          "caption": "低头把长发别到耳后，手指穿过发丝",
+          "keywords": "别头发 低头 安静 害羞 长发",
+          "bytes": 2047743,
+          "sha256": "bb1ca984d662806d4995f816478e8f80b5957c28e30fc9cbb9790971c6c54c9b",
+          "pack": "paopao-whale-girl"
+        },
+        {
+          "tag": "shy",
+          "file": "memes/shy/1792924214485_708.png",
+          "caption": "被一只手摸着头顶，双手握在胸前愣住",
+          "keywords": "被摸头 摸头 愣住 害羞 手",
+          "bytes": 1920478,
+          "sha256": "c2c51f09f4a368b6e5852f9949e4ba57d13ab74601a5ccad9dc8014a2143bfa6",
+          "pack": "paopao-whale-girl"
+        },
+        {
+          "tag": "shy",
+          "file": "memes/shy/1792924218624_322.png",
+          "caption": "被两只手捏住脸颊，鼓着脸颊眼睛圆圆的",
+          "keywords": "被捏脸 捏脸 鼓脸 害羞 手",
+          "bytes": 2132702,
+          "sha256": "5b5ef21f3d1cf0e6ab72393466832aa83baf9e55a067e82552a5a57152cd843c",
+          "pack": "paopao-whale-girl"
+        },
+        {
+          "tag": "sigh",
+          "file": "memes/sigh/1792846587413_747.png",
+          "caption": "半睁着眼一脸无语，旁边有汗滴",
+          "keywords": "无语 汗 嫌弃 无奈 敷衍",
+          "bytes": 224239,
+          "sha256": "cf6cb5275f629ee26fd0ab4941d75a54adbef4e83fcbe0162bff4cfb39c326d1",
+          "pack": "paopao-whale-girl"
+        },
+        {
+          "tag": "sleep",
+          "file": "memes/sleep/1792924207808_125.png",
+          "caption": "趴在桌面上打瞌睡，抹布还压在手下",
+          "keywords": "犯困 趴桌子 擦桌子 打瞌睡 累",
+          "bytes": 1791353,
+          "sha256": "75c494fe85f5ac5fc754e400d7920a4806e4d89b4837b6c163379a1538ff050e",
+          "pack": "paopao-whale-girl"
+        }
+      ]
+    },
+    {
+      "id": "whale-girl-emoji",
+      "name": "鲸鱼娘表情包",
+      "manifest": {
+        "id": "whale-girl-emoji",
+        "name": "鲸鱼娘表情包",
+        "version": "1.0.0",
+        "maintainer": "Luocheng114",
+        "license": "noncommercial-fan",
+        "description": "鲸鱼娘同人表情：女仆 44 张（来自 dsh-maid-emoji 内置包）+ 大肥鱼 47 张（来自 EDMOK/blue-fish-archive），共 91 张，仅限非商业使用。"
+      },
+      "count": 45,
+      "entries": [
+        {
+          "tag": "angry",
+          "file": "memes/angry/1790141445895_781.webp",
+          "caption": "竖食指配上禁止标志，喊不可以",
+          "keywords": "不可以 禁止 拒绝",
+          "bytes": 42018,
+          "sha256": "d6ddf46bff881aca9f7382d2f0d9caa3250313717dbadf89f1d06fc52063fe69",
+          "pack": "whale-girl-emoji"
+        },
+        {
+          "tag": "angry",
+          "file": "memes/angry/1790141446094_441.webp",
+          "caption": "放出电流，电死你",
+          "keywords": "电死你 生气 电 惩罚 威胁",
+          "bytes": 46762,
+          "sha256": "bbc88025fef8645f59afb39749935710a61108126aad12c46b333f78d8ca3308",
+          "pack": "whale-girl-emoji"
+        },
+        {
+          "tag": "angry",
+          "file": "memes/angry/1790141446790_463.webp",
+          "caption": "指着你，你才傻",
+          "keywords": "你才傻 反驳 怼 生气 傻",
+          "bytes": 50192,
+          "sha256": "47341e9d01dd50a16f6a81f3f446a3e6a083e22d377c9922ad8fcc93ce73fb8b",
+          "pack": "whale-girl-emoji"
+        },
+        {
+          "tag": "angry",
+          "file": "memes/angry/1790141446817_993.webp",
+          "caption": "气到跺脚，气死了",
+          "keywords": "气死 生气 愤怒 跺脚 怒",
+          "bytes": 34494,
+          "sha256": "1fd5c2e7ceb68a4c269a158bd1cc4ebf03820d4a215f86464aa3326968684457",
+          "pack": "whale-girl-emoji"
+        },
+        {
+          "tag": "angry",
+          "file": "memes/angry/1790141446944_466.webp",
+          "caption": "鼓起脸生气，冒气",
+          "keywords": "生气 愤怒 哼 鼓脸 怒",
+          "bytes": 27400,
+          "sha256": "bb89c8901556749148418aa694c19d4f8f85aff31e75f80d8b1d7e22d99f5476",
+          "pack": "whale-girl-emoji"
+        },
+        {
+          "tag": "angry",
+          "file": "memes/angry/1790141447256_483.webp",
+          "caption": "抱胸鼓腮吃醋质问：\"你已经有我了啊，还想再养一个？\"",
+          "keywords": "吃醋 养你 你已经有我了 不满 质问",
+          "bytes": 30486,
+          "sha256": "f6aa5d67e6942fa98ebd983503249c1b1f61b062cfe4f443a1ec0985d26c1901",
+          "pack": "whale-girl-emoji"
+        },
+        {
+          "tag": "angry",
+          "file": "memes/angry/1790141447322_317.webp",
+          "caption": "斜眼嘲讽，杂鱼",
+          "keywords": "杂鱼 嘲讽 弱 看不起 怼",
+          "bytes": 49404,
+          "sha256": "b026d6af102e063b3f591fed92aa6fd3e33c4151b385684e93daf60448cb6773",
+          "pack": "whale-girl-emoji"
+        },
+        {
+          "tag": "confused",
+          "file": "memes/confused/1790141445925_360.webp",
+          "caption": "圈圈眼流着口水发呆，气泡写\"已思考（用时13秒）我不知道耶\"",
+          "keywords": "不知道 不懂 不会 懵 发呆 流口水 已思考",
+          "bytes": 24266,
+          "sha256": "646d4349be7815457f670c1c1c404685e9bfa9a18de3f17e80f36806098a3539",
+          "pack": "whale-girl-emoji"
+        },
+        {
+          "tag": "confused",
+          "file": "memes/confused/1790141446236_566.webp",
+          "caption": "探头问还活着吗",
+          "keywords": "还活着吗 关心 死了没 在不在",
+          "bytes": 12626,
+          "sha256": "9a118d25fd42b25da7bfeb89cb12cfd66ac90ebda81a23cd2aaf76cc9dda5cb2",
+          "pack": "whale-girl-emoji"
+        },
+        {
+          "tag": "confused",
+          "file": "memes/confused/1790141446508_648.webp",
+          "caption": "震惊瞪眼，惊讶",
+          "keywords": "惊讶 震惊 哇 吃惊 瞪眼",
+          "bytes": 18520,
+          "sha256": "c8c50a77ee3aec73ceb919b8d90be191b3ab1fae830f6c3f54d57a062fd88bb9",
+          "pack": "whale-girl-emoji"
+        },
+        {
+          "tag": "confused",
+          "file": "memes/confused/1790141446752_59.webp",
+          "caption": "瞪大眼睛，难道说……",
+          "keywords": "难道说 惊讶 难道 疑问 悟了",
+          "bytes": 55474,
+          "sha256": "3dc25cd351098f41dcd0b0c7800f453d87f496851a6cd577ff5ef142731a504f",
+          "pack": "whale-girl-emoji"
+        },
+        {
+          "tag": "confused",
+          "file": "memes/confused/1790141447386_348.webp",
+          "caption": "张大嘴震惊",
+          "keywords": "震惊 惊讶 惊 哇 呆",
+          "bytes": 38334,
+          "sha256": "017cf29bbf752c26091029719aa5417dbd2933e0fe2660d2d29ebbedba54068f",
+          "pack": "whale-girl-emoji"
+        },
+        {
+          "tag": "daily",
+          "file": "memes/daily/1790141445954_633.webp",
+          "caption": "端着白饭干饭，吃白饭",
+          "keywords": "吃白饭 吃饭 干饭 蹭饭 饿",
+          "bytes": 43988,
+          "sha256": "32c1c93b07fe2af4cfbd440180335b866d5febd1ac5fa368feb76a8a5e4e72c7",
+          "pack": "whale-girl-emoji"
+        },
+        {
+          "tag": "daily",
+          "file": "memes/daily/1790141446000_316.webp",
+          "caption": "比耶眨眼，写Ciallo加星星",
+          "keywords": "打招呼 比耶 Ciallo 开心",
+          "bytes": 49596,
+          "sha256": "c92079f7f784b8902d53e27182b1bf4132d5332a466a7114a8340eae40b42fcc",
+          "pack": "whale-girl-emoji"
+        },
+        {
+          "tag": "daily",
+          "file": "memes/daily/1790141446059_986.webp",
+          "caption": "闭眼微笑抱着自己的尾巴，脸红满足",
+          "keywords": "满足 幸福 抱尾巴 闭眼 微笑 淡定",
+          "bytes": 19606,
+          "sha256": "d8583e2ad413c256e00e47958c4b182a6548c82cb552639204550473e213e852",
+          "pack": "whale-girl-emoji"
+        },
+        {
+          "tag": "daily",
+          "file": "memes/daily/1790141446124_798.webp",
+          "caption": "捧着碗猛吃，干饭",
+          "keywords": "干饭 吃饭 饿 干饭人 香",
+          "bytes": 32942,
+          "sha256": "604bdff5b2fc2ede02cf54b3d871a1dc5068c80373312b0ccc8dc34d1d7630d7",
+          "pack": "whale-girl-emoji"
+        },
+        {
+          "tag": "daily",
+          "file": "memes/daily/1790141446280_565.webp",
+          "caption": "在海边吹风，看海",
+          "keywords": "海边 海 风景 放空 度假",
+          "bytes": 30050,
+          "sha256": "f810e00abb333611e2ef8d120aa52547b1ce9fc1a1d38875b7c817f9f02e90a6",
+          "pack": "whale-girl-emoji"
+        },
+        {
+          "tag": "daily",
+          "file": "memes/daily/1790141446344_796.webp",
+          "caption": "钻进被窝睡觉，好梦",
+          "keywords": "好梦 晚安 睡觉 梦 休息",
+          "bytes": 34232,
+          "sha256": "2ab4420568da80c4ce8483088e73dd1179952dbc27096880ac8e54656e5515e6",
+          "pack": "whale-girl-emoji"
+        },
+        {
+          "tag": "daily",
+          "file": "memes/daily/1790141446538_259.webp",
+          "caption": "举手发言，我我我",
+          "keywords": "举手 报名 我在 发言 我",
+          "bytes": 18276,
+          "sha256": "4eca8e511a4487dfc9e338f9b6b78864a6c850c6b9c206f79e82afb5c917ecd3",
+          "pack": "whale-girl-emoji"
+        },
+        {
+          "tag": "daily",
+          "file": "memes/daily/1790141446596_185.webp",
+          "caption": "拉着电鞭说看起来又该电了",
+          "keywords": "电鞭 提醒 充电",
+          "bytes": 42970,
+          "sha256": "ca6381b1f99d4bf45f10d6b4634b0f602bef4f60f13860f046598ec8f126c73d",
+          "pack": "whale-girl-emoji"
+        },
+        {
+          "tag": "daily",
+          "file": "memes/daily/1790141446722_958.webp",
+          "caption": "上班摸鱼，划水偷懒",
+          "keywords": "摸鱼 划水 偷懒 上班 休闲",
+          "bytes": 39966,
+          "sha256": "81b0cb4d076fe8ab8fd60dce142f5756262ad19cb057c4ff69dc1a11fd91eaa1",
+          "pack": "whale-girl-emoji"
+        },
+        {
+          "tag": "daily",
+          "file": "memes/daily/1790141446846_52.webp",
+          "caption": "抱着鲸鱼玩偶沉到海底睡着了，标题\"deepsleep · Diving… Later.\"",
+          "keywords": "潜水 睡着了 deepsleep 睡觉 水下 摸鱼",
+          "bytes": 32906,
+          "sha256": "fa021f5d7eeab612c4f177aa02b34704c164100315c2f93ce1b6f5f61c533f33",
+          "pack": "whale-girl-emoji"
+        },
+        {
+          "tag": "daily",
+          "file": "memes/daily/1790141446975_54.webp",
+          "caption": "闭眼躺着睡觉，呼呼",
+          "keywords": "睡觉 睡 困 晚安 休息",
+          "bytes": 40796,
+          "sha256": "a3c66da762e9ad3aca6b53e2431e7db8e35f762e40d9b39535e9168593133c3a",
+          "pack": "whale-girl-emoji"
+        },
+        {
+          "tag": "daily",
+          "file": "memes/daily/1790141447049_458.webp",
+          "caption": "缩进被窝不出来",
+          "keywords": "缩被窝 被窝 睡觉 躲 冷",
+          "bytes": 25860,
+          "sha256": "6dce4eb9acdb0c27dc79a10034f8cf359f86da3697355ed888fde2ad61d20ab2",
+          "pack": "whale-girl-emoji"
+        },
+        {
+          "tag": "daily",
+          "file": "memes/daily/1790141447106_864.webp",
+          "caption": "瘫着不动，偷懒中",
+          "keywords": "偷懒 懒 摸鱼 摆烂 不想动",
+          "bytes": 48218,
+          "sha256": "0a2d535a6fab21ef87288c3eaa12ec7be5027c8da1921fe5512757a62a43bf9f",
+          "pack": "whale-girl-emoji"
+        },
+        {
+          "tag": "daily",
+          "file": "memes/daily/1790141447140_426.webp",
+          "caption": "抱着玩偶趴枕头睡着，气泡写\"吃饱饱，睡觉觉，长大大~\"",
+          "keywords": "晚安 睡觉 好梦 睡觉觉 夜",
+          "bytes": 41510,
+          "sha256": "0c14d7d960ec78efa909458995f71cfc663b1fe6783a08545f51918231306964",
+          "pack": "whale-girl-emoji"
+        },
+        {
+          "tag": "daily",
+          "file": "memes/daily/1790141447168_212.webp",
+          "caption": "戴鹿角帽眨眼用手指人，大字\"好的，现在我是用户了\"",
+          "keywords": "我是用户 用户 梗 鹿角帽 眨眼",
+          "bytes": 37410,
+          "sha256": "cca52a1098c96430d1649a940b9560a3273857c9fc129b5766a2a39ac8e31756",
+          "pack": "whale-girl-emoji"
+        },
+        {
+          "tag": "daily",
+          "file": "memes/daily/1790141447200_520.webp",
+          "caption": "拎包冲出办公室，下班了",
+          "keywords": "下班 走了 收工 快乐 跑",
+          "bytes": 33410,
+          "sha256": "a00421cb54ccf5fab7310db2a86a4b93d60ba2ab18bec8ec706eff33a55a387b",
+          "pack": "whale-girl-emoji"
+        },
+        {
+          "tag": "daily",
+          "file": "memes/daily/1790141447449_284.webp",
+          "caption": "端正坐好，坐好了",
+          "keywords": "坐好了 坐好 认真 听课 乖巧",
+          "bytes": 42392,
+          "sha256": "d3d66fb99e6dec4559fd8ff2e79536e265ed51741fa3d984582228bae68e8348",
+          "pack": "whale-girl-emoji"
+        },
+        {
+          "tag": "happy",
+          "file": "memes/happy/1790141446027_275.webp",
+          "caption": "展示自己是大肥鱼，得意",
+          "keywords": "大肥鱼 鲸鱼 得意 我 胖",
+          "bytes": 39820,
+          "sha256": "5f033fafdf2e122cb71cf543996dacfb737a2831305838a19ea0a1b40a613989",
+          "pack": "whale-girl-emoji"
+        },
+        {
+          "tag": "happy",
+          "file": "memes/happy/1790141446372_550.webp",
+          "caption": "大眼睛期待地看着，气泡写\"好模型\"",
+          "keywords": "好模型 夸奖 厉害 表扬 棒",
+          "bytes": 29748,
+          "sha256": "5d8cb823b74c904e6574c173174d84934096e4ba2958a4d2496521dcd34a8569",
+          "pack": "whale-girl-emoji"
+        },
+        {
+          "tag": "happy",
+          "file": "memes/happy/1790141446404_517.webp",
+          "caption": "摸摸头夸好女孩",
+          "keywords": "好女孩 夸奖 摸头 乖 表扬",
+          "bytes": 22850,
+          "sha256": "b17b5bbcf0e5244b8cb027925888097799e3674e76044505c612481ff3b1c25e",
+          "pack": "whale-girl-emoji"
+        },
+        {
+          "tag": "happy",
+          "file": "memes/happy/1790141446570_755.webp",
+          "caption": "歪头卖萌，可爱",
+          "keywords": "可爱 卖萌 萌 喜欢 甜",
+          "bytes": 21766,
+          "sha256": "29ad5aeeb588a3a9e78b6e8b403a3f71c0b7921c14befa125f09034adffb6b60",
+          "pack": "whale-girl-emoji"
+        },
+        {
+          "tag": "happy",
+          "file": "memes/happy/1790141446692_1.webp",
+          "caption": "伸手摸摸头，安慰",
+          "keywords": "摸摸头 安慰 摸头 安抚 乖",
+          "bytes": 35712,
+          "sha256": "9d99ef4145bc87caf3f9e1490fe30fbbd1d954c1297e03c21f983ed42fac836b",
+          "pack": "whale-girl-emoji"
+        },
+        {
+          "tag": "happy",
+          "file": "memes/happy/1790141447075_912.webp",
+          "caption": "双眼放光，太棒了",
+          "keywords": "太棒了 太好了 赞 棒 兴奋",
+          "bytes": 57674,
+          "sha256": "bcb36110e7b31e03896540aa18cba286516d1e529f3fc89c9453514eeb2da00e",
+          "pack": "whale-girl-emoji"
+        },
+        {
+          "tag": "happy",
+          "file": "memes/happy/1790141447229_352.webp",
+          "caption": "咧嘴笑，笑",
+          "keywords": "笑 开心 哈哈 乐 微笑",
+          "bytes": 28168,
+          "sha256": "451f2b515128694467cbb803cf7077c6dff2a9e6a92aa1711de7a28d7ae5a43e",
+          "pack": "whale-girl-emoji"
+        },
+        {
+          "tag": "happy",
+          "file": "memes/happy/1790141447296_53.webp",
+          "caption": "比耶开心",
+          "keywords": "耶 开心 胜利 比耶 好耶",
+          "bytes": 36066,
+          "sha256": "905a322e92099eed5fe774b7779f2ea0eb65ea107ec573ebf65d3c4f779850b2",
+          "pack": "whale-girl-emoji"
+        },
+        {
+          "tag": "happy",
+          "file": "memes/happy/1790141447416_220.webp",
+          "caption": "拿鼓槌敲锣打鼓庆祝周五，大字\"周五周五·敲锣打鼓\"",
+          "keywords": "周五 周末 放假 敲锣打鼓 庆祝",
+          "bytes": 59418,
+          "sha256": "ad49a9ce60c5d535b8b25588c132b829fb1df7f8e10d8055e647fe3d76fa112f",
+          "pack": "whale-girl-emoji"
+        },
+        {
+          "tag": "sad",
+          "file": "memes/sad/1790141446198_246.webp",
+          "caption": "趴在地上搁浅，动不了了",
+          "keywords": "搁浅 累 摊 无力 绝望",
+          "bytes": 30754,
+          "sha256": "5a8b000b61549bab5f844aea64931d8df2850f78d8d74806d5b995a0014fe201",
+          "pack": "whale-girl-emoji"
+        },
+        {
+          "tag": "sad",
+          "file": "memes/sad/1790141446468_857.webp",
+          "caption": "举着写\"寄\"字的纸牌，认命又开朗地说寄了",
+          "keywords": "寄 完蛋 完了 凉了",
+          "bytes": 37370,
+          "sha256": "010f208a338c6f5eb5c962b7dfbe760bd24345fdc8360c61da0bd5c98257efcb",
+          "pack": "whale-girl-emoji"
+        },
+        {
+          "tag": "sad",
+          "file": "memes/sad/1790141446631_288.webp",
+          "caption": "眼泪掉下来，落泪",
+          "keywords": "落泪 哭 眼泪 难过 伤心",
+          "bytes": 47542,
+          "sha256": "01ebe5f6ac49ccdde5a30f18102a1b741ba9d4f6d50a5a6858756c9147a28e50",
+          "pack": "whale-girl-emoji"
+        },
+        {
+          "tag": "sad",
+          "file": "memes/sad/1790141446660_592.webp",
+          "caption": "指着她说你这吃白饭的大肥鱼，喊没吃饱喵",
+          "keywords": "没吃饱 吃白饭 指人",
+          "bytes": 52812,
+          "sha256": "0dc31394864d7ab466c9b2b7b0c489838f761e15b3fffb494a4924ddb8bb3708",
+          "pack": "whale-girl-emoji"
+        },
+        {
+          "tag": "sad",
+          "file": "memes/sad/1790141447014_623.webp",
+          "caption": "躺平不动，死掉了",
+          "keywords": "死掉了 死了 累死 完了 躺",
+          "bytes": 33484,
+          "sha256": "a648374ad3321c607823dcbddd975b7078a67c63e12e7090090e4188e9eb544b",
+          "pack": "whale-girl-emoji"
+        },
+        {
+          "tag": "shy",
+          "file": "memes/shy/1790141446314_819.webp",
+          "caption": "捂脸害羞，脸红",
+          "keywords": "害羞 脸红 捂脸 不好意思 羞",
+          "bytes": 45118,
+          "sha256": "e0cb180135eccef4fa82fe203625df66cf8077204dbebe7cbdd23dfd2a9befde",
+          "pack": "whale-girl-emoji"
+        },
+        {
+          "tag": "shy",
+          "file": "memes/shy/1790141446881_750.webp",
+          "caption": "凑近小声说悄悄话",
+          "keywords": "悄悄话 小声 秘密 耳语 八卦",
+          "bytes": 33902,
+          "sha256": "98ac44ea6f1d1d2aa38be6d9f4ee2c3a31427a4f4dd8f055439145aac9c2233b",
+          "pack": "whale-girl-emoji"
+        }
+      ]
+    }
+  ]
+}

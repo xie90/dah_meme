@@ -3,6 +3,8 @@
 鲸鱼娘 / 大肥鱼表情包归档，共 **97** 张，3 个图库。
 由 DSH 表情包目录 `~/.dsh/meme-packs` 导出，保留原始分类、描述与关键词。
 
+**[在线画廊 gallery.html](gallery.html)** — 搜索 + 按库/情绪过滤（开 Pages 就能直接用）。
+
 ## 图库
 
 | 图库 | ID | 数量 | 授权 | 链接 |
@@ -18,6 +20,7 @@ packs/<库ID>/manifest.json   # 库元信息
 packs/<库ID>/README.md       # 带缩略图的清单
 packs/<库ID>/memes/<分类>/<文件>
 catalog.json                 # 全量索引：分类/描述/关键词/大小/sha256
+gallery.html                 # 静态画廊页，直接读 catalog.json
 ```
 
 ## 用法
